@@ -181,6 +181,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default {
     border-color: transparent;
     background-color: #222;
+    max-width: 100%;
+    margin-right: 15px;
 }
 
 .navbar-default .navbar-brand {
