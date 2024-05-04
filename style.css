@@ -278,7 +278,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.65)), url(/img/header-bg.jpg);
+    background-image: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.65)), url(./img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
